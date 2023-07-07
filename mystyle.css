@@ -1,0 +1,10 @@
+li{list-style-type: disc;
+   display: inline; margin-left: 100px; background-color: khaki; border: 4px solid cadetblue; width: 100%; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 20px;border-radius: 20px; }
+nav{ background-repeat: no-repeat; background-size:100% 100%; background-attachment: fixed; background-image: url(spiderman.jpg); height: 400px; text-align: center;}
+a{text-decoration: none; text-decoration-color: wheat;}
+h2{font-family: 'Courier New', Courier, monospace; color: bisque; font-size: 40px; background-color: black; width: 25%; text-align: center;}
+footer{text-align: center ;}
+a:hover{color: crimson;}
+h3{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 25px; background-color: crimson; width: 14%; border-radius: 20px; border: 4px solid blue;}
+img{margin-left: 30px; }
+.text{color:black; background-color: crimson; width: 4%; border:4px solid blue; border-radius: 20px; }
